@@ -5,3 +5,4 @@
 #### 👉 go to https://www.reddit.com/prefs/apps
 #### 👉 go to bottom of page and click on 'create application'
 
+![Screenshot](InkedCapture.jpg)
